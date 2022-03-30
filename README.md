@@ -3,3 +3,4 @@ This library was created to show as an example how to publish your own Pyhton pa
 
 # How to install
 ...
+"# mypackage" 
